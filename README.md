@@ -1,1 +1,3 @@
-# socketprogram
+# GuessNum
+
+Language used : Python
